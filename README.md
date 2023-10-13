@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarkT7!
 - 👀 I’m interested in advancing my career and learning about new technologies
-- 🌱 I’m currently learning C#, C++ and SQL
+- 🌱 I’m currently learning Java, C#, C++ and SQL
 
 - 📫 marcosrtejerina@gmail.com
 
